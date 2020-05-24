@@ -7,4 +7,4 @@
 Se référer à la vidéo suivante : 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jkyBy3uDRq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/jkyBy3uDRq4
